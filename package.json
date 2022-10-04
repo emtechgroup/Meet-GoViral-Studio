@@ -4,7 +4,7 @@
   "private": false,
   "author": "Névio Costa Magagnin",
   "description": "Video chat application with WebRTC",
-  "homepage": "https://meet.goviral.studio/home",
+  "homepage": "https://meet-go-viral-studio.vercel.app/home",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
